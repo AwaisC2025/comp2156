@@ -1,1 +1,1 @@
-#### COMP2156 – Developer Operations | Student ID 101464805 – Awais Chaudry
+#### COMP2156 – Developer Operations | 101464805 and Awais Chaudry
