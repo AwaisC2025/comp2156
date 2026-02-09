@@ -4,8 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-   "test": "echo \"Warning: No tests created yet.\""
-
+    "test": "echo \"Warning: No tests created yet.\""
   },
   "repository": {
     "type": "git",
@@ -17,5 +16,6 @@
   "bugs": {
     "url": "https://github.com/AwaisC2025/comp2156/issues"
   },
-  "homepage": "https://github.com/AwaisC2025/comp2156#readme"
+  "homepage": "https://github.com/AwaisC2025/comp2156#readme",
+  "type": "commonjs"
 }
